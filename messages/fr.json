@@ -1,0 +1,210 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "menu": "Menu",
+    "language": "Langue",
+    "arabic": "Arabe",
+    "french": "Français"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "pricing": "Tarifs",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "S'inscrire"
+  },
+  "hero": {
+    "title": "Solutions numériques avancées pour l'avenir de votre entreprise",
+    "subtitle": "Nous vous aidons à développer et améliorer votre activité numérique avec les dernières technologies et solutions innovantes",
+    "cta": "Commencez maintenant",
+    "cta_secondary": "En savoir plus"
+  },
+  "features": {
+    "title": "Fonctionnalités exceptionnelles",
+    "subtitle": "Nous offrons une gamme complète d'outils et de services conçus spécifiquement pour répondre à vos besoins",
+    "feature1": {
+      "title": "Facilité d'utilisation",
+      "description": "Interface simple et innovante qui rend l'utilisation du système facile et confortable"
+    },
+    "feature2": {
+      "title": "Sécurité avancée",
+      "description": "Protection robuste de vos données avec les dernières normes de sécurité et de chiffrement"
+    },
+    "feature3": {
+      "title": "Support 24/7",
+      "description": "Équipe de support spécialisée disponible 24h/24 pour vous aider à tout moment"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "subtitle": "Trois étapes simples pour commencer",
+    "step1": {
+      "title": "Inscrivez-vous",
+      "description": "Créez votre nouveau compte en quelques minutes"
+    },
+    "step2": {
+      "title": "Choisissez votre plan",
+      "description": "Sélectionnez le plan qui correspond à vos besoins et votre budget"
+    },
+    "step3": {
+      "title": "Commencez à utiliser",
+      "description": "Profitez de toutes les fonctionnalités et développez votre projet"
+    }
+  },
+  "pricing": {
+    "title": "Plans tarifaires",
+    "subtitle": "Choisissez le plan qui vous convient",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "save": "Économisez {percentage}%",
+    "basic": {
+      "name": "Basique",
+      "price": "29",
+      "currency": "€",
+      "period": "par mois",
+      "description": "Parfait pour les particuliers et petits projets",
+      "features": [
+        "Support de base",
+        "10 Go de stockage",
+        "3 utilisateurs maximum",
+        "Rapports de base"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "59",
+      "currency": "€",
+      "period": "par mois",
+      "description": "Idéal pour les entreprises moyennes",
+      "features": [
+        "Support avancé",
+        "100 Go de stockage",
+        "Utilisateurs illimités",
+        "Rapports avancés",
+        "Intégrations tierces"
+      ]
+    },
+    "enterprise": {
+      "name": "Entreprise",
+      "price": "Sur mesure",
+      "description": "Solutions personnalisées pour les grandes entreprises",
+      "features": [
+        "Support dédié",
+        "Stockage illimité",
+        "Fonctionnalités personnalisées",
+        "SLA garanti",
+        "Consultations gratuites"
+      ]
+    },
+    "cta": "Choisir ce plan"
+  },
+  "testimonials": {
+    "title": "Témoignages clients",
+    "subtitle": "Ce que nos clients disent de nos services",
+    "testimonial1": {
+      "content": "Plateforme excellente qui m'a beaucoup aidé à développer mon entreprise. Le support technique est excellent et les fonctionnalités très avancées.",
+      "author": "Ahmed El Maliki",
+      "title": "Directeur Technique"
+    },
+    "testimonial2": {
+      "content": "La facilité d'utilisation et la sécurité sont parmi les principales caractéristiques. Je la recommande à tous ceux qui veulent développer leur projet numérique.",
+      "author": "Fatima Zahrani",
+      "title": "Entrepreneure"
+    },
+    "testimonial3": {
+      "content": "Service client excellent et solutions innovantes. Je n'ai pas trouvé mieux que cette plateforme sur le marché.",
+      "author": "Mohamed El Otaibi",
+      "title": "Développeur d'applications"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Réponses aux questions importantes",
+    "q1": {
+      "question": "Comment puis-je commencer ?",
+      "answer": "Vous pouvez commencer en créant un nouveau compte et en choisissant le plan qui vous convient. Le processus prend moins de 5 minutes."
+    },
+    "q2": {
+      "question": "Puis-je changer mon plan plus tard ?",
+      "answer": "Oui, vous pouvez mettre à niveau ou rétrograder votre plan à tout moment depuis votre tableau de bord."
+    },
+    "q3": {
+      "question": "Quels sont les moyens de paiement disponibles ?",
+      "answer": "Nous acceptons toutes les principales cartes de crédit, ainsi que les virements bancaires et les paiements en ligne."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider, contactez-nous à tout moment",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom complet",
+      "email": "E-mail",
+      "emailPlaceholder": "exemple@domaine.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Sujet de votre message",
+      "message": "Message",
+      "messagePlaceholder": "Écrivez votre message ici...",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Votre message a été envoyé avec succès !",
+      "error": "Erreur lors de l'envoi. Veuillez réessayer."
+    },
+    "info": {
+      "address": "Paris, France",
+      "phone": "+33 1 23 45 67 89",
+      "email": "info@exemple.fr"
+    }
+  },
+  "blog": {
+    "title": "Notre blog",
+    "subtitle": "Dernières actualités et articles sur le monde de la technologie",
+    "readMore": "Lire la suite",
+    "author": "Auteur",
+    "publishedOn": "Publié le",
+    "categories": "Catégories",
+    "tags": "Tags"
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "subtitle": "Bon retour",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "remember": "Se souvenir de moi",
+      "forgot": "Mot de passe oublié ?",
+      "submit": "Se connecter",
+      "noAccount": "Pas de compte ?",
+      "createAccount": "Créer un compte"
+    },
+    "register": {
+      "title": "Créer un compte",
+      "subtitle": "Rejoignez notre plateforme aujourd'hui",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "terms": "J'accepte les conditions générales",
+      "submit": "Créer le compte",
+      "hasAccount": "Vous avez un compte ?",
+      "signIn": "Se connecter"
+    }
+  },
+  "footer": {
+    "description": "Plateforme numérique avancée qui aide les entreprises à croître et se développer dans le monde numérique",
+    "quickLinks": "Liens rapides",
+    "support": "Support",
+    "legal": "Légal",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "help": "Aide",
+    "rights": "Tous droits réservés",
+    "social": "Suivez-nous"
+  }
+}
